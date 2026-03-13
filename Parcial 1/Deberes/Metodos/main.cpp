@@ -13,8 +13,8 @@ int main(){
         cout<<"2. Insertar nota"<<endl;
         cout<<"3. Buscar nota"<<endl;
         cout<<"4. Mostrar notas"<<endl;
-        cout<<"5. Size"<<endl;
-        cout<<"6. Salir (cantidad de notas)"<<endl;
+        cout<<"5. Size (cantidad de notas)"<<endl;
+        cout<<"6. Salir "<<endl;
 
         cout<<"Seleccione una opcion: ";
         cin>>op;
