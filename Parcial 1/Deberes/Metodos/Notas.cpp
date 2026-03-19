@@ -45,14 +45,13 @@ void Notas::Insertar(){
         notas[i] = notas[i-1];
     }
 
-    cout<<"Ingrese la nueva nota: ";
+    cout<<"Ingrese la nueva nota: "; 
     cin>>valor;
 
     notas[pos] = valor;
 
     n++;
 }
-
 // Metodo Buscar()
 // Busca una nota dentro del arreglo
 void Notas::Buscar(){
@@ -71,29 +70,21 @@ void Notas::Buscar(){
             encontrado=true;
         }
     }
-
     if(!encontrado){
         cout<<"Nota no encontrada"<<endl;
     }
 }
-
 // Metodo Mostrar()
 // Recorre el arreglo y muestra todas las notas
 void Notas::Mostrar(){
-
     cout<<"\nLista de notas\n";
-
     for(int i=0;i<n;i++){
 
         cout<<"Posicion "<<i<<" : "<<notas[i]<<endl;
-
     }
 }
-
 // Metodo Size()
 // Muestra la cantidad de notas almacenadas
 void Notas::Size(){
-
     cout<<"Cantidad de notas registradas: "<<n<<endl;
-
 }

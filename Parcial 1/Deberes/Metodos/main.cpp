@@ -40,10 +40,7 @@ int main(){
         case 5:
             n.Size();
             break;
-
         }
-
     }while(op!=6);
-
     return 0;
 }

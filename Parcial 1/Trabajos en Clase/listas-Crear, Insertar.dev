@@ -1,5 +1,5 @@
 [Project]
-FileName=Project1.dev
+FileName=listas-Crear, Insertar.dev
 Name=Project1
 Type=1
 Ver=2
@@ -29,7 +29,7 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=0000000000000000000000000
-UnitCount=3
+UnitCount=1
 
 [VersionInfo]
 Major=1
@@ -50,28 +50,8 @@ ProductVersion=
 AutoIncBuildNr=0
 SyncProduct=1
 
-[Unit2]
-FileName=Notas.h
-CompileCpp=1
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit3]
-FileName=Notas.cpp
-CompileCpp=1
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
 [Unit1]
-FileName=main.cpp
+FileName=LinkList\main.cpp
 CompileCpp=1
 Folder=
 Compile=1
