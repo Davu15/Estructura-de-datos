@@ -5,7 +5,7 @@
 - Integrante 2
 - Integrante 3
 - Integrante 4
-
+cd "C:\Users\WELCOME\Desktop\Portafolio - Estructura de datos"
 ## Objetivo
 Implementar un árbol binario de búsqueda en C++ para organizar empleados de una empresa.
 
