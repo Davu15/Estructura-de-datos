@@ -38,6 +38,32 @@ To analyze, implement, and understand fundamental data structures through practi
 * Compiler: g++
 * Environment: Visual Studio / Dev-C++
 
+### How to Run the Programs
+
+Clone the repository:
+
+```bash
+git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+```
+
+Go to the project folder:
+
+```bash
+cd TU_REPOSITORIO
+```
+
+Compile a file:
+
+```bash
+g++ archivo.cpp -o programa
+```
+
+Run:
+
+```bash
+./programa
+```
+
 ### Author
 
 David Rodriguez
@@ -78,6 +104,32 @@ Analizar, implementar y comprender diferentes estructuras de datos fundamentales
 * Lenguaje: C++
 * Compilador: g++
 * Entorno: Visual Studio / Dev-C++
+
+### Cómo ejecutar los programas
+
+Clonar el repositorio:
+
+```bash
+git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+```
+
+Acceder a la carpeta del proyecto:
+
+```bash
+cd TU_REPOSITORIO
+```
+
+Compilar un archivo:
+
+```bash
+g++ archivo.cpp -o programa
+```
+
+Ejecutar:
+
+```bash
+./programa
+```
 
 ### Autor
 
