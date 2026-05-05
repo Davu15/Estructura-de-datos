@@ -1,0 +1,21 @@
+# Ejecutables
+*.exe
+*.out
+
+# Archivos compilados
+*.o
+*.obj
+
+# Carpetas de compilación
+build/
+bin/
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de Dev-C++
+*.dev
+*.layout
+
+# Logs y temporales
+*.log
