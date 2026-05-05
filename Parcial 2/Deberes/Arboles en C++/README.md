@@ -1,6 +1,6 @@
 # Árbol BST Empresarial en C++
 
-## Integrantes
+## Integrantegit add "Parcial 2/Deberes/Arboles en C++/README.md"s
 - David Rodriguez
 
 ## Objetivo
